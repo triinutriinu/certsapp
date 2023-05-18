@@ -20,7 +20,7 @@ main > h1 {
   font-size: 3.5em;
 }
 
-button {
+.button {
   background-color: #4CAF50; /* Green */
   border: none;
   color: white;
