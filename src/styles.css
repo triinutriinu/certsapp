@@ -26,4 +26,6 @@ input {
   display: inline-block;
   font-size: 24px;
   margin: auto;
+  width: 150px;
+  height: 36px;
 }
